@@ -70,23 +70,23 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'albundy.mp4',
-  'badger.mp4',
-  'cat.mp4',
-  'hasan.mp4',
-  'heman.mp4',
-  'jozin.mp4',
-  'nyan.mp4',
-  'rickroll.mp4',
-  'space.mp4',
-  'trolol.mp4'
+  'VID-20251030-WA0001.mp4',
+  'VID-20251030-WA0001.mp4',
+  'VID-20251030-WA0001.mp4',
+  'VID-20251030-WA0001.mp4',
+  'VID-20251030-WA0001.mp4',
+  'VID-20251030-WA0001.mp4',
+  'VID-20251030-WA0001.mp4',
+  'VID-20251030-WA0001.mp4',
+  'VID-20251030-WA0001.mp4',
+  'VID-20251030-WA0001.mp4'
 ]
 
 const FILE_DOWNLOADS = [
-  'cat-blue-eyes.jpg',
-  'cat-ceiling.jpg',
-  'cat-crosseyes.jpg',
-  'cat-cute.jpg',
+  'VID-20251030-WA0001.mp4',
+  'VID-20251030-WA0001.mp4',
+  'VID-20251030-WA0001.mp4',
+  'VID-20251030-WA0001.mp4',
   'cat-hover.jpg',
   'cat-marshmellows.jpg',
   'cat-small-face.jpg',
