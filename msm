@@ -1,0 +1,4 @@
+wget https://github.com/msm8916-mainline/gen-uboot-img/releases/download/20250426-v6.15-rc3/combined.img
+wget https://github.com/msm8916-mainline/gen-uboot-img/releases/download/20250426-v6.15-rc3/lk2nd.img
+wget https://github.com/msm8916-mainline/gen-uboot-img/releases/download/20250426-v6.15-rc3/thirdstage.ext2
+wget https://github.com/msm8916-mainline/gen-uboot-img/releases/download/20250426-v6.15-rc3/qhypstub.bin
